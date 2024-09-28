@@ -42,7 +42,7 @@ A simple weather application built for Android that provides current weather dat
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/neeldesaind/weather-app-android/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
